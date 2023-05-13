@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import Calculator from './components/Calculator.vue'
+import Formulario from './components/Formulario.vue'
 </script>
 
 <template>
-  <calculator></calculator>
+  <formulario></formulario>
  
 </template>
 
